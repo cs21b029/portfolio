@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    width: 300px; /* Adjust as needed */
+    height: fit-content;
+  }
+  
+  .cardImage {
+    overflow: hidden;
+  }
+  
+  .cardImage img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .cardContent {
+    padding: 10px;
+  }
+  
+  .cardContent h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .cardContent p {
+    margin-top: 5px;
+  }
+  
+  .cardContent a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #f1356d;
+    color: #fff;
+    text-decoration: none;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .cardContent a:hover {
+    background-color: #fff;
+    color: black;
+
+  }
+  

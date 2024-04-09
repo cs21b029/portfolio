@@ -1,0 +1,189 @@
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    /* height: 60vh; */
+    width: 80%;
+    background-color: #f5f5f5;
+}
+.ed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+
+}
+.heading{
+    width: 100%;
+    margin-left: 1%;
+    color: #f1356d;
+}
+.edheading {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.edheading .ins{
+    margin-left: 25%;
+}
+.edheading .year{
+    margin-left: 25%;
+}
+.edheading .cgpa{
+    margin-left: 15%;
+}
+.eddetails {
+    margin-left: 1%;
+    margin-top: 1%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+}
+.eddetails .ins{
+    margin-left: 17%;
+}
+.eddetails .year{
+    margin-left: 25%;
+}
+.eddetails .cgpa{
+    margin-left: 17%;
+}
+.eddetails1 {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.eddetails1 .ins{
+    margin-left: 14%;
+}
+.eddetails1 .year{
+    margin-left: 16%;
+}
+.eddetails1 .cgpa{
+    margin-left: 17%;
+}
+.eddetails2 {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.eddetails2 .ins{
+    margin-left: 14%;
+}
+.eddetails2 .year{
+    margin-left: 14%;
+}
+.eddetails2 .cgpa{
+    margin-left: 17%;
+}
+.interest{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.interest p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.tech{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.list{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.list p{
+    margin-left: 1%;
+}
+.courses{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.courses p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.achi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.achi p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.extra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.extra p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+}
+.hobbies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2%;
+}
+.hobbies p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+}

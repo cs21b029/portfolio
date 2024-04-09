@@ -10,8 +10,7 @@ const Home = () => {
                     <h1>Full Stack Developer</h1>
                     <p>Hi! I am a Full Stack Developer with experience in building web applications using React, Node.js, Express.js, and MongoDB. I am passionate about learning new technologies and building applications that solve real-world problems. I am currently looking for full-time opportunities as a Full Stack Developer.</p>
                     <div className="socials">
-                        {/* <img width="24" height="24" src="https://img.icons8.com/material-sharp/24/github.png" alt="github"/> */}
-                        <a href="https://github.com/cs21b029">Github</a>
+                        <a href="https://github.com/cs21b029">GitHub</a>
                     </div>
                 </div>
                 <div className="mypic">
